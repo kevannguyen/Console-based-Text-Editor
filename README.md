@@ -3,7 +3,7 @@ Final project for ICS 45C. Follows Professor Thornton's code template for the te
 
 My responsibility for this project was to implement the logic and interactivity behind the console text editor. This was done through modular object-oriented practices towards reusability.
 
-The text editor supported basic functionality including text insertion, deletion, undo, redo through polymorphism. 
+The text editor supported basic functionality including text insertion, deletion, undo, redo through polymorphism. The program adopted the use of the stack data structure to facilitate undo and redo operations.
 
 Cursor movement was implemented with the ncurses programming library.
 
