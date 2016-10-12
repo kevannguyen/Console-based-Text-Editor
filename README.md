@@ -6,3 +6,6 @@ My responsibility for this project was to implement the logic and interactivity 
 The text editor supported basic functionality including text insertion, deletion, undo, redo through polymorphism. 
 
 Cursor movement was implemented with the ncurses programming library.
+
+##Screenshot
+![Console Text Editor](http://i.imgur.com/J1oVR4x.png "Console Text Editor")
